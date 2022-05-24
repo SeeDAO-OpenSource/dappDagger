@@ -25,7 +25,7 @@ yarn dev
 ## Features
 ### Basic DApp template
 
-Features：
+#### Features：
 
 1. Html
 2. React
@@ -37,6 +37,23 @@ Features：
 8. basic ERC20 publish
 9. 
 
+#### Structures
++ Total l1 directory:
+├── README.md
+├── artifacts
+├── cache
+├── contracts
+├── deploy-rinkeby.sh
+├── hardhat.config.js
+├── node_modules
+├── package-lock.json
+├── package.json
+├── public
+├── scripts
+├── src
+└── test
+
+#### 
 ### Basic Community contract template
 + Todo
 
