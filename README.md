@@ -22,7 +22,7 @@ yarn install
 yarn dev
 ```
 
-## Features
+## Templates
 ### Basic DApp template
 
 #### Features：
@@ -39,18 +39,31 @@ yarn dev
 
 #### Structures
 + Total l1 directory:
++ 
 ├── README.md
+
 ├── artifacts
+
 ├── cache
+
 ├── contracts
+
 ├── deploy-rinkeby.sh
+
 ├── hardhat.config.js
+
 ├── node_modules
+
 ├── package-lock.json
+
 ├── package.json
+
 ├── public
+
 ├── scripts
+
 ├── src
+
 └── test
 
 #### 
