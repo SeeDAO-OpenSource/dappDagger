@@ -13,18 +13,23 @@
 + Install
 
 ```
-yarn install
+yarn install(or npm install)
 ```
 
 + Run
 
 ```
-yarn dev
+yarn dev(or npm start)
 ```
 
 ## Templates
 ### Basic DApp template
++ See ETHShanghai2022 directory README.md.
++ It a basic demo to join the ETH Shanghai hackthon.
 
+### Basic Multipage DApp template
++ Waiting for you!
++ ...
 #### Features：
 
 1. Html
