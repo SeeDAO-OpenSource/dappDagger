@@ -28,9 +28,20 @@ yarn dev(or npm start)
 + Online Demo(Fleek): https://misty-wildflower-9811.on.fleek.co/
 + It a basic demo to join the ETH Shanghai hackthon.
 
-### Basic Multipage DApp template
-+ Waiting for you!
-+ ...
+### Basic Web3 DApp template
++ Tech stack: Next(build on React) + Wagmi(basic Web3 hooks)
++ `npx create-next-app base-web3`
++ `cd base-web3`
++ view [Next demo page](http://127.0.0.1:3000/)
++ We will add basic abilities:`"Connect Wallet," display ENS and balance information, sign messages, interact with contracts`.
++ And more...
++ What we called Business is just build on the basic hooks.
++ So let's begin!
++ more code see `base-web3` directory.
+
+#### install 
++ `npm install wagmi ethers`
++ 
 #### Features：
 
 1. Html
