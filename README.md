@@ -25,7 +25,7 @@ yarn dev(or npm start)
 ## Templates
 ### Basic DApp template
 + See ETHShanghai2022 directory README.md.
-+ Online Demo(Fleek): https://misty-wildflower-9811.on.fleek.co/
++ Online Demo(Fleek): https://www.proofofsoul.me/
 + It a basic demo to join the ETH Shanghai hackthon.
 
 ### Basic Web3 DApp template
@@ -39,9 +39,13 @@ yarn dev(or npm start)
 + So let's begin!
 + more code see `base-web3` directory.
 
-#### install 
+#### Install 
 + `npm install wagmi ethers`
-+ 
++ set `NEXT_PUBLIC_ALCHEMY_ID`
+
+#### References
++ https://github.com/zkSoju/wagmi-boiler
++ https://github.com/Seth-McKilla/nextjs-wagmi
 #### Features：
 
 1. Html
